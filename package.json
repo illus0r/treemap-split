@@ -6,7 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/illus0r/treemap-split.git"
+  },
+  "keywords": [
+    "glsl"
+  ],
+  "author": "Ivan Dianov (@illus0r)",
+  "license": "MIT"
 }
